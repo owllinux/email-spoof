@@ -66,5 +66,5 @@ if (isset($_POST["send"])) {
 		</body>
 	</html>' ;
 }
-
+// Made By github.com/owllinux 
 ?>
